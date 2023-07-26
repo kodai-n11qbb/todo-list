@@ -30,19 +30,4 @@ class Cookie {
     }
 }
 
-
-class Cookie2 {
-    static setCookie () {
-        0
-    }
-
-    static getCookie () {
-        0
-    }
-
-    static getAllCookie () {
-        0
-    }
-}
-
 export default Cookie;
