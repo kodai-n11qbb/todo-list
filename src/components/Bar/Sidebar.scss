@@ -1,0 +1,19 @@
+
+nav {
+    .sidebar-container {
+        display: flex;
+        flex-direction: column;
+
+        ul {
+            padding: 0;
+            li {
+                list-style: none;
+            }
+        }
+    }
+
+    .add-button-container {
+        position: fixed;
+        top: 90vh;
+    }
+}
