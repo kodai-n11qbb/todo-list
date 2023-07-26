@@ -1,0 +1,1 @@
+*{outline:red 1px solid}.container{display:flex;height:200vh}nav .sidebar-container{display:flex;flex-direction:column}nav .sidebar-container ul{padding:0}nav .sidebar-container ul li{list-style:none}nav .add-button-container{position:fixed;top:90vh}.menuitem-container{display:flex}
